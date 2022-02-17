@@ -1,6 +1,7 @@
 .navbarbg {
     height: 55px;
     background-color: white;
+    color: #eef3f8;
   }
   
   input.searche {
@@ -28,6 +29,7 @@
     color: gray;
     margin-top: 5px;
     font-weight: lighter;
+    
   }
   
   .menutext:hover {
@@ -128,3 +130,8 @@
     font-size: 14px;
     margin-left: 8px;
   }
+
+  .card-body span button{
+      margin-top: 15px;
+  }
+ 
