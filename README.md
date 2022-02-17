@@ -1,1 +1,3 @@
-# PatikaLinkedinClone
+# Patika Linkedin Clone
+
+Verilen ödev tamamlandı. Buraya alenngirli laflar gelecek...
